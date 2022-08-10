@@ -29,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/thp/workspace/spring-security/security",
+    "last_opened_file_path": "/home/thp/workspace/spring-security",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,6 +47,7 @@
       <workItem from="1660001749864" duration="433000" />
       <workItem from="1660002492360" duration="1317000" />
       <workItem from="1660003978697" duration="36000" />
+      <workItem from="1660004625162" duration="342000" />
     </task>
     <servers />
   </component>
